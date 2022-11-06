@@ -1,5 +1,5 @@
 <template>
   <div id="app">
-    <div class="text-3xl">Hello World!</div>
+    <router-view></router-view>
   </div>
 </template>
